@@ -79,4 +79,5 @@ int main() {
  printf("PIB:%.2f\n", Pib1);
  printf(" Pontos Turisticos:%d\n", Pontos_Turisticos2);
     return 0;
+    
 }
